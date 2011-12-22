@@ -1,0 +1,3 @@
+[submodule "src/skydata/core"]
+	path = src/skydata/core
+	url = git@github.com:SkyData/SkyData-Core.git
